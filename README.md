@@ -15,7 +15,7 @@ allow for offline access and functionality.  The user will be able to add
 expenses and deposits to their budget with or without a connection. 
 When entering transactions offline, they should populate the total when 
 brought back online.  Here is a link to the Github folder 
-https://github.com/Emjayosee/Assignment18_Progressive_Budget and a link to the deployed 
+https://github.com/Emjayosee/18_Budget_Tracker and a link to the deployed 
 website https://ledgerassignment18.herokuapp.com/.
 
 # 02 Approach:
